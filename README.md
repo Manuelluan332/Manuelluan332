@@ -42,7 +42,7 @@ Sou Manuel Luan, tenho 21  anos atualmente estou fazendo minha graduação no cu
 
 
 
-
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -50,3 +50,4 @@ Sou Manuel Luan, tenho 21  anos atualmente estou fazendo minha graduação no cu
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
+###
