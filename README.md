@@ -1,5 +1,5 @@
 # Olá, sou Manuel Luan 👋
-**Software Developer|**
+**Backend Developer|**
 **Date Engnnier** 👨‍💻 🎲
 
 Sou Manuel Luan, tenho 21  anos atualmente estou fazendo minha graduação no curso de Ciência da Computação na **UNIT(Universidade Tiradentes) Sergipe** .Escolhi essa área com o objetivo de buscar conhecimento, aprender na prática e  resolver soluções do dia a dia na profissão de T.I .Me dedico fortemente na área da  tecnológica pela sua enorme evolução e oportunidade,  ao longo dos anos cresce  cada vez mais .Ademais, busco foca na parte de **Desevolvimento de Sotware**, com o  objetivo de criar e resolver de sistemas para usuários e  empresas que mais necessitam para as demais funções .Além do mais, tenho uma paixão pela **Área de dados**, pela sua complexidade de coleta processamento,tratamento dr dados, criação de insights, extrair e desenvolver informações em meios válidos para serem analisados de maneiras mais efiecintes  para funcionamentos dedicaco, na qual grandes empresas corporativas buscam.
